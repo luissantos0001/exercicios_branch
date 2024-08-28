@@ -1,7 +1,6 @@
-package org.teste;
-
 public class Teste {
-    private int idade;
+    private String nome;
+    private int Idade;
     public static void main(String[] args) {
         System.out.println("A vida e bela!");
     }
